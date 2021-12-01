@@ -1,0 +1,117 @@
+h1{
+    color:darkblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:center;
+    font-size: 50px;
+    text-decoration: underline double black;
+   
+  }
+ .borderhr{
+  border-width: 5px;
+  border-color: brown;
+  border-style:solid;
+ }
+h2{
+   font-size: 40px;
+  /* background-color:lightgreen ;*/
+   text-align:center;
+   font-weight: bolder;
+   text-decoration:underline dotted blue;
+   color:mediumvioletred;
+
+ 
+ }
+
+ p{
+   text-align:left;
+   line-height: 1.2em;
+   font-weight: 500;
+   font-size: 18px;
+   /*letter-spacing:0.1em;*/
+   font-family: 'Overpass', sans-serif;
+ }
+
+/*
+*{
+color:blue;
+} */
+#break{
+  border-width:2px;
+  border-color: black;
+  border-style:outset;
+  }
+img{
+  max-width:15%;
+  height:15%;
+  margin-left: 1em;
+}
+.book1{
+  margin-left: 1em;
+  color:orangered;
+  font-size:160%;
+
+}
+div{
+  border: 2px solid black;
+  width:500px;
+  margin-left: 250px;
+  margin-top:-300px;
+ /* margin-top: 0.6em;*/
+  font-family: 'Bree Serif', serif;
+  text-align: justify;
+}
+#author,#sub,#Refrence{
+  font-family: 'Bree Serif', serif;
+  color:midnightblue
+}
+
+.book2{
+  margin-left: 1em;
+  margin-top: 200px;
+  color:orangered;
+  font-size:160%;
+
+}
+.book3{
+  margin-left: 1em;
+  margin-top: 200px;
+  color:orangered;
+  font-size:160%;
+}
+#book3info{
+  border: 2px solid black;
+  width:500px;
+  margin-left: 250px;
+  margin-top:-250px;
+ /* margin-top: 0.6em;*/
+  font-family: 'Bree Serif', serif;
+  text-align: justify;
+}
+#img{
+  max-width:15%;
+  height:15%;
+  margin-left: 1em;
+}
+#lastbroder{
+  border:2px solid black;
+}
+.userinfo{
+  font-family: 'Share', cursive;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  font-size: 20px;
+  padding:80px;
+}
+input[type="text"]
+{
+  color:brown;
+ font-size: 15px;
+  font-family:  'Share', cursive;
+}
+input[type="password"]
+{
+  color:brown;
+  font-size: 15px;
+  font-family:  'Share', cursive;
+}
